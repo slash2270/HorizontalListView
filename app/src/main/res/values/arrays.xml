@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title_bar">
+        <item>首頁</item>
+        <item>話題</item>
+        <item>最新</item>
+        <item>貼文</item>
+        <item>熱門</item>
+        <item>轉發</item>
+        <item>交友</item>
+        <item>個人</item>
+    </string-array>
+</resources>
